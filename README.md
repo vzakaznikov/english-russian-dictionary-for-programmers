@@ -29,7 +29,7 @@ Please feel free to submit an issue or a pull request with your suggestions or c
   - внести изменения
 * **pipeline**
   - конвейер
-* **pull request (PR)**
+* **pull request (PR)**, **merge request**, **change request**
   - запрос на изменение
 * **issue**, **ticket**
   - задачa
