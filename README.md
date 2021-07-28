@@ -9,6 +9,10 @@ This small dictionary is an attempt to create a base for improving our technical
 
 Please feel free to submit an issue or a pull request with your suggestions or changes!
 
+## How to use?
+
+Use browser's built-in search (Ctrl-F) to find the english word or expression of interest.
+
 ## Dictionary
 
 * **bug**
