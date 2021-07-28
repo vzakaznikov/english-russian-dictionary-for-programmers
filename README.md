@@ -27,6 +27,10 @@ Please feel free to submit an issue or a pull request with your suggestions or c
   - параметр
 * **commit**
   - внести изменения
+* **pull changes**, **accept changes**
+  - принять изменения
+* **push changes**
+  - вносить изменения
 * **pipeline**
   - конвейер
 * **pull request (PR)**, **merge request**, **change request**
