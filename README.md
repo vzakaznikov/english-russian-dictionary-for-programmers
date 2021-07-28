@@ -21,6 +21,10 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 * **feature**
   - функциональность
   - возможность
+* **option**
+  - опция
+  - вариант
+  - параметр
 * **commit**
   - внести изменения
 * **pipeline**
