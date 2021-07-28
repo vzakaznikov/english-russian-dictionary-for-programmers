@@ -46,3 +46,7 @@ Please feel free to submit an issue or a pull request with your suggestions or c
   - эпилог
 * **trace**
   - траса
+* **meeting**
+  - встреча
+  - совещание
+  - собрание
