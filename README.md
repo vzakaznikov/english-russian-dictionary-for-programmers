@@ -17,7 +17,7 @@ Please feel free to submit an issue or a pull request with your suggestions or c
   - исправить
   - поправить
   - устранить
-  - поченить
+  - починить
 * **feature**
   - функциональность
   - возможность
