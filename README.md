@@ -11,6 +11,13 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 
 ## Dictionary
 
+* **bug**
+  - ошибка
+* **to fix**
+  - исправить
+  - поправить
+  - устранить
+  - поченить
 * **feature**
   - функциональность
   - возможность
