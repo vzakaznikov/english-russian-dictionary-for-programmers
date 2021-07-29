@@ -20,6 +20,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - сотрудничество
 * **exit code**
   - код выхода
+  - код вазврата
 * **namespace**
   - пространство имен
   - локальная область
@@ -70,3 +71,6 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - встреча
   - совещание
   - собрание
+* **preview**
+  - предпросмотр
+  - анонс
