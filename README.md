@@ -15,6 +15,9 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 
 ## Dictionary
 
+* **namespace**
+  - пространство имен
+  - локальная область
 * **object oriented programming**
   - объектно-ориентированное программирование
 * **inline**
