@@ -15,6 +15,11 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 
 ## Dictionary
 
+* **synergy**
+  - взаимодействие
+  - сотрудничество
+* **exit code**
+  - код выхода
 * **namespace**
   - пространство имен
   - локальная область
