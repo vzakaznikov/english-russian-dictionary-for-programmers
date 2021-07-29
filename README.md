@@ -15,6 +15,10 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 
 ## Dictionary
 
+* **object oriented programming**
+  - объектно-ориентированное программирование
+* **inline**
+  - встроенный
 * **bug**
   - ошибка
 * **to fix**
