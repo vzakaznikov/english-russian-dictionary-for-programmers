@@ -95,14 +95,16 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - опция
   - вариант
   - параметр
-* **commit**
+* **to commit**
   - внести изменения
+  - **commit**
+    - изменениe
 * **pull changes**, **accept changes**
   - принять изменения
 * **push changes**
   - толкать изменения (в удаленное хранилище/репозиторий)
 * **pipeline**
-  - конвейер
+  - конвейе
 * **pull request (PR)**, **merge request**, **change request**
   - запрос на изменение
   - запрос на внос изменений
