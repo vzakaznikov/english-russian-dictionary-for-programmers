@@ -14,6 +14,14 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 Use browser's built-in search (Ctrl-F) to find the english word or expression of interest.
 
 ## Dictionary
+* **XOR** (XOR operation)
+  - исключающее ИЛИ
+* **OR** (OR operation)
+  - ИЛИ
+* **AND** (AND operation)
+  - И
+* **NOT** (NOT operation)
+  - НЕ
 * **shift**
   - сдвиг 
 * **bitmap**
