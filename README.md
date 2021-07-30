@@ -14,6 +14,10 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 Use browser's built-in search (Ctrl-F) to find the english word or expression of interest.
 
 ## Dictionary
+* **backward slash**
+  - косая черта назад
+* **forward slash**
+  - косая черта вперед
 * **dash**
   - тире
 * **underscore**
