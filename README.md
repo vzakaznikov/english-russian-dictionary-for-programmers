@@ -15,6 +15,24 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 
 ## Dictionary
 
+* **boolean**
+  - булев
+  - логические числа
+* **binary**
+  - бинарный
+* **hexadecimal**
+  - шестнадцатеричное число
+* **tuple**
+  - кортеж
+  - **two tuple**
+    - двойной кортеж
+* **singleton**
+  - одноэлементное множество
+  - синглет
+* **array**
+  - массив
+* **race condition**, **race in the order of execution**
+  - гонка в последовательности выполнения операций
 * **synergy**
   - взаимодействие
   - сотрудничество
@@ -74,3 +92,8 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 * **preview**
   - предпросмотр
   - анонс
+* **computer**
+  - компьютер
+  - вычислительная машина
+* **to compute**
+  - вычислять
