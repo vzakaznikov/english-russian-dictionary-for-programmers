@@ -14,10 +14,21 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 Use browser's built-in search (Ctrl-F) to find the english word or expression of interest.
 
 ## Dictionary
-
+* **multitasking**
+  - многозадачность
+  - **to multitask**
+    - выполнение многозадачности
+* **to execute**
+  - выполнять
+* **executable**
+  - программа
+* **deadlock**
+  - тупик
 * **boolean**
   - булев
   - логические числа
+* **decimal**
+  - десятичное число
 * **binary**
   - бинарный
 * **hexadecimal**
