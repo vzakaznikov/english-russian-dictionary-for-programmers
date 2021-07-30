@@ -70,6 +70,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - конвейер
 * **pull request (PR)**, **merge request**, **change request**
   - запрос на изменение
+  - запрос на внос изменений
 * **issue**, **ticket**
   - задачa
 * **bug report**
