@@ -80,12 +80,14 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - рецензия
 * **setup**
   - входные действия
-  - предисловие
+  - настройка
 * **teardown**
   - заключительные действия
   - эпилог
 * **trace**
-  - траса
+  - трасса, трассировка
+* **stack trace**
+  - трассировка стека, трасса вызовов
 * **meeting**
   - встреча
   - совещание
