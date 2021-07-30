@@ -76,7 +76,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 * **pull changes**, **accept changes**
   - принять изменения
 * **push changes**
-  - вносить изменения
+  - толкать изменения (в удаленное хранилище/репозиторий)
 * **pipeline**
   - конвейер
 * **pull request (PR)**, **merge request**, **change request**
