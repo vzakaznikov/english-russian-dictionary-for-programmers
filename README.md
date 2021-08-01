@@ -28,6 +28,8 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - битовое отображение
 * **bitmask**
   - битовая маска
+* **slash**
+  - косая черта
 * **backward slash**
   - косая черта назад
 * **forward slash**
