@@ -15,27 +15,27 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 
 ## Dictionary
 * **XOR** (XOR operation)
-  - исключающее ИЛИ
+  - исключающее "ИЛИ"
 * **OR** (OR operation)
-  - ИЛИ
+  - логическое "ИЛИ" (дизъюнкция)
 * **AND** (AND operation)
-  - И
+  - логическое "И" (конъюнкция)
 * **NOT** (NOT operation)
-  - НЕ
+  - логическое "НЕ" (отрицание)
 * **shift**
   - сдвиг 
 * **bitmap**
-  - битовое отображение
+  - битовый массив
 * **bitmask**
   - битовая маска
 * **slash**
-  - косая черта
+  - косая черта, слеш
 * **backward slash**
-  - косая черта назад
+  - обратная косая черта, бекслеш, обратный слеш
 * **forward slash**
   - косая черта вперед
 * **dash**
-  - тире
+  - тире, черточка
 * **underscore**
   - символ подчеркивания
 * **convention**
@@ -49,9 +49,9 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 * **executable**
   - программа
 * **deadlock**
-  - тупик
+  - взаимная блокировка, дедлок, тупик
 * **boolean**
-  - булев
+  - логический тип, булевый тип, булев
   - логические числа
 * **decimal**
   - десятичное число
@@ -65,17 +65,18 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
     - двойной кортеж
 * **singleton**
   - одноэлементное множество
+  - шаблон "Одиночка" (Singleton)
   - синглет
 * **array**
   - массив
 * **race condition**, **race in the order of execution**
-  - гонка в последовательности выполнения операций
+  - Состояние гонки, гонка в последовательности выполнения операций
 * **synergy**
   - взаимодействие
   - сотрудничество
 * **exit code**
   - код выхода
-  - код вазврата
+  - код возврата
 * **namespace**
   - пространство имен
   - локальная область
@@ -106,7 +107,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 * **push changes**
   - толкать изменения (в удаленное хранилище/репозиторий)
 * **pipeline**
-  - конвейе
+  - конвейер
 * **pull request (PR)**, **merge request**, **change request**
   - запрос на изменение
   - запрос на внос изменений
