@@ -14,6 +14,12 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 Use browser's built-in search (Ctrl-F) to find the english word or expression of interest.
 
 ## Dictionary
+* **assert**
+  - утверждение
+  - **positive assertion**
+    - положительное утверждение
+  - **negative assertion**
+    - отрицательное утверждение   
 * **XOR** (XOR operation)
   - исключающее ИЛИ
 * **OR** (OR operation)
