@@ -16,6 +16,8 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 ## Dictionary
 * **token**
   - жетон
+  - **security token**
+    - жетон доступа
 * **statement**
   - выражение
 * **assert**
