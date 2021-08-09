@@ -25,7 +25,6 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - зависимость от (скорости) процессора
 * **IO bound**
   - зависимость от (скорости) ввода-вывода
-* **IO
 * **relative path**
   - относительный путь
 * **label**
