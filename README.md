@@ -135,7 +135,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 * **push changes**
   - толкать изменения (в удаленное хранилище/репозиторий)
 * **pipeline**
-  - конвейе
+  - конвейер
 * **pull request (PR)**, **merge request**, **change request**
   - запрос на изменение
   - запрос на внос изменений
