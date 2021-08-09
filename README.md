@@ -14,6 +14,18 @@ Please feel free to submit an issue or a pull request with your suggestions or c
 Use browser's built-in search (Ctrl-F) to find the english word or expression of interest.
 
 ## Dictionary
+* **thread**
+  - поток
+* **thread pool**
+  - группа потоков
+  - пул потоков
+* **process pool**
+  - группа процессов 
+* **CPU bound**
+  - зависимость от (скорости) процессора
+* **IO bound**
+  - зависимость от (скорости) ввода-вывода
+* **IO
 * **relative path**
   - относительный путь
 * **label**
