@@ -168,3 +168,6 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - вычислительная машина
 * **to compute**
   - вычислять
+* **pattern**
+  - шаблон
+  - шаблон проектирования
