@@ -127,7 +127,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - вариант
   - параметр
 * **to commit**
-  - внести изменения
+  - сохранить изменения
   - **commit**
     - (внесенное) изменениe
 * **pull changes**, **accept changes**
