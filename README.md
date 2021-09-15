@@ -79,8 +79,10 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - программа
 * **deadlock**
   - тупик
+  - взаимоблокировка
+  - взаимная блокировка
 * **boolean**
-  - булев
+  - булевы значения
   - логические числа
 * **decimal**
   - десятичное число
@@ -104,7 +106,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - сотрудничество
 * **exit code**
   - код выхода
-  - код вазврата
+  - код возврата
 * **namespace**
   - пространство имен
   - локальная область
@@ -130,6 +132,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - сохранить изменения
   - **commit**
     - (внесенное) изменениe
+    - вклад
 * **pull changes**, **accept changes**
   - принять изменения
 * **push changes**
@@ -138,7 +141,7 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
   - конвейер
 * **pull request (PR)**, **merge request**, **change request**
   - запрос на изменение
-  - запрос на внос изменений
+  - запрос на внесение изменений
 * **issue**, **ticket**
   - задачa
 * **bug report**
@@ -171,3 +174,5 @@ Use browser's built-in search (Ctrl-F) to find the english word or expression of
 * **pattern**
   - шаблон
   - шаблон проектирования
+* **endpoint**
+  - точка входа
